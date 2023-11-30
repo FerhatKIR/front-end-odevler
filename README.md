@@ -1,2 +1,2 @@
 # front-end-odevler
-HTML CSS ODEvler
+HTML CSS Ödevler
